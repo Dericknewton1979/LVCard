@@ -1,0 +1,35 @@
+ body 
+	{font-family: georgia;
+	}
+
+{
+	margin: 20px;
+	 
+	}
+
+.raiders 
+	{
+	width: 150px;
+	box-shadow: 5px 5px 5px black;
+	 
+	}
+
+.card {
+	width: 400px;
+	margin: 0 auto; 	
+	justify-content: space-around; 
+	padding: 20px;
+	display: flex;
+	text-align: center;
+	background-color: silver;
+	border-bottom: 6px solid grey;
+	border-radius: 15px;
+	
+	 
+}
+
+ .blue-border{
+	border: 1px dotted blue;
+	 
+	 
+}
